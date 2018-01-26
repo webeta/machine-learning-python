@@ -1,4 +1,6 @@
-#機器學習：使用Python
+# 機器學習：使用Python
+
+> 本开源书 forked from [機器學習：使用Python](https://github.com/htygithub/machine-learning-python)，作者为 [htygithub](https://github.com/htygithub)，欢迎大家 star 原作者的 [repo](https://github.com/htygithub/machine-learning-python)，以便获得最新更新，谢谢！
 
 這份文件的目的是要提供Python 之機器學習套件 scikit-learn (http://scikit-learn.org/) 的中文使用說明。一開始的主要目標是詳細說明scikit-learn套件中的[範例程式](http://scikit-learn.org/stable/auto_examples/index.html )的使用流程以及相關函式的使用方法。目前使用版本為 scikit-learn version 0.18 以上
 
